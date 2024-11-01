@@ -4,7 +4,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. This pro
 
 ## Demo
 
-Link:-
+Link:- https://akash09gupta.github.io/Rock-Paper-Scissor-Game/
 
 ## Features
 
